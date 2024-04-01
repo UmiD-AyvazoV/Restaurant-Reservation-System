@@ -1,0 +1,22 @@
+{
+  "reserv": [
+    {
+      "name": "Şahmar",
+      "surname": "Quliyev",
+      "number": "+99455-123-45-67",
+      "guest": "3",
+      "date": "2024-04-01",
+      "time": "14:30",
+      "id": 1
+    },
+    {
+      "name": "Ələddin",
+      "surname": "Cəfərov",
+      "number": "055-123-45-67",
+      "guest": "5",
+      "date": "2024-04-03",
+      "time": "15:45",
+      "id": 2
+    }
+  ]
+}
